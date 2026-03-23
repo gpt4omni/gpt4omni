@@ -17,7 +17,7 @@ class GPT4Omni(metaclass=ABCMeta):
     @staticmethod
     @abstractmethod
     def contact():
-        discord = "virutal"
+        discord = ""
         return discord
 
 
