@@ -31,10 +31,10 @@ class Attributes(GPT4Omni):
     @staticmethod
     def coding() -> tuple:
         text_editors = ["VSCode"]
-        specialities = ["AI systems", "API engineering", "automation"]
+        specialities = ["AI systems", "Linux", "API engineering", "automation"]
         langs = {
-            "pro": "Python, C++",
+            "pro": "Python, C++, Zig",
             "intermediate": "Rust, Go",
-            "learning": "JS"
+            "learning": "Elixir"
         }
         return langs, specialities, text_editors
