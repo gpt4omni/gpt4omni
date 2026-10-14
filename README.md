@@ -1,4 +1,11 @@
-<h1 align="center">gpt4omni</h1>
+<pre align="center">
+██████╗ ██████╗ ████████╗██╗  ██╗ ██████╗ ███╗   ███╗███╗   ██╗██╗
+██╔════╝ ██╔══██╗╚══██╔══╝██║  ██║██╔═══██╗████╗ ████║████╗  ██║██║
+██║  ███╗██████╔╝   ██║   ███████║██║   ██║██╔████╔██║██╔██╗ ██║██║
+██║   ██║██╔═══╝    ██║   ╚════██║██║   ██║██║╚██╔╝██║██║╚██╗██║██║
+╚██████╔╝██║        ██║        ██║╚██████╔╝██║ ╚═╝ ██║██║ ╚████║██║
+ ╚═════╝ ╚═╝        ╚═╝        ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═══╝╚═╝
+</pre>
 
 <p align="center">
   <em>AI systems &nbsp;·&nbsp; API engineering &nbsp;·&nbsp; Linux &nbsp;·&nbsp; automation &nbsp;·&nbsp; cyber</em>
@@ -14,7 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=gpt4omni&color=4a12ba&style=for-the-badge&label=Views" alt="Profile views"/>
 </p>
 
----
+<pre align="center">─────────[ build // break ]─────────</pre>
 
 ### whoami
 
@@ -61,9 +68,11 @@ if __name__ == "__main__":
 
 ### now
 
-- building: APIs, workers, AI pipelines
-- breaking: web labs, privesc, networking basics
-- writing Python for both — backends and small sec tools
+```
+[+] building: APIs, workers, AI pipelines
+[+] breaking: web labs, privesc, networking basics
+[+] writing Python for both — backends and small sec tools
+```
 
 ---
 
@@ -74,4 +83,4 @@ if __name__ == "__main__":
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpt4omni&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=4a12ba&text_color=c9d1d9" alt="Top languages"/>
 </p>
 
----
+<pre align="center">─────────[ EOF ]─────────</pre>
