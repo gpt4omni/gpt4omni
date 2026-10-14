@@ -18,7 +18,7 @@
   <a href="https://github.com/gpt4omni?tab=repositories">
     <img src="https://img.shields.io/github/stars/gpt4omni?color=4a12ba&labelColor=0d1117&style=for-the-badge&logo=github&label=Stars" alt="Total stars"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=gpt4omni&color=4a12ba&style=for-the-badge&label=Views" alt="Profile views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gpt4omni.gpt4omni&left_color=%230d1117&right_color=%234a12ba" alt="Profile views"/>
 </p>
 
 <pre align="center">─────────[ build // break ]─────────</pre>
